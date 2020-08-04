@@ -8,7 +8,7 @@ int main()
 	int key;
 	while(1)
 	{
-		cout << "\n1.create list\n2.insert\n3.delete_ele\n4.updatenode\n5.display\n6.Reverse\n7.search\n8.sort0.exit" << endl;
+		cout << "\n1.create list\n2.insert\n3.delete_ele\n4.updatenode\n5.display\n6.Reverse\n7.search\n8.sort\n0.exit" << endl;
 		cout << "Enter ur choice<0-exit>" << endl;
 		cin >> opt;
 		switch (opt)
