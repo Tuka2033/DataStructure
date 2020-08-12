@@ -6,7 +6,7 @@
 #project5-->Linked Queue.
 #project6-->Polynomial Equetion ( Linked List Application)
 #project7-->Circular Queue using array.
-#project8-->Circular Queue Using linked list.
+#project8-->Deque Using doubly linked list.
 #project9-->Stack Using Array.
 #program11-->Selection Sort.
 #dataStructure-->Demo sample singly Link List using Template Applicable only Int .
